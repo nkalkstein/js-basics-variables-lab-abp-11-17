@@ -1,1 +1,3 @@
-// Code your solution in this file!
+const companyName = 'Scuber';
+set mostProfitableNeighborhood = 'Chelsea';
+set companyCeo = 'Susan Smith';
